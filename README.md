@@ -18,6 +18,7 @@ TypeScript & React are my comfort zone — but I'm always up for a challenge.
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
 ![Biome](https://img.shields.io/badge/Biome-3F3F46?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
